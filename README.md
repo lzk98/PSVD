@@ -6,8 +6,7 @@ A database of paddy soil viruses (PSVD) was constructed, which contained 8,791 v
 3. PSVD_protein.faa.gz: PSVD database protein sequence column collection.
 4. AMGs.fasta.gz: Viral Auxiliary Metabolic Genes (AMGs) dataset.
 5. AMGs_summary.txt: Viral Auxiliary Metabolic Genes information.
-6. Refseq-spacers
-   spacers.fa.gz: Using the genomic data collection of bacteria and archaea in RefSeq (June 2022), the CRISPR arrays were identified using CRT v1.2 and PILER v1.06 and the results of the two were summarized.
+6. Refseq-spacers/spacers.fa.gz: Using the genomic data collection of bacteria and archaea in RefSeq (June 2022), the CRISPR arrays were identified using CRT v1.2 and PILER v1.06 and the results of the two were summarized.
 
 For any other code/analysis inquiries, please open a github issue.
 If this code is useful, please cite: LIU Zekun, HUANG Shixuan, YANG Meiyan.Virus Diversity Studies in Paddy Soils[J]. Acta Pedologica Sinica,2023 (In Press).
