@@ -1,7 +1,8 @@
 # Paddy Soil Viruses Database (PSVD)
 A database of paddy soil viruses (PSVD) was constructed, which contained 8,791 viral operational taxonomic units (vOTUs) and 168,940 protein sequences. In PSVD, 31.41% of the sequences could predict the taxonomic status of the species. These viral sequences belonged to 76 known virus families, with the majority of viruses coming from the Caudoviricetes, and their hosts were mainly distributed across 11 bacterial phyla. Also, Auxiliary Metabolic Genes (AMGs) carried by rice field soil viruses were analyzed, and 39 carbohydrate-active enzymes (CAZymes) genes, which may have been widely distributed in rice soil systems, were identified, and the presence of these genes contributed to biogeochemical cycling. In summary, this study innovatively constructed a PSVD database and used DRAM-v to mine AMG genes in paddy soil systems, thus, laying a research foundation for later studies of paddy soil virus groups and providing new insights for the resolution of paddy virus communities.
 
-### Files
+### Fi![图1信息表](https://github.com/lzk98/PSVD/assets/90882020/a9379988-080b-4ada-a158-46b396f7ff59)
+les
 1. PSVD.fasta.gz: PSVD database nucleic acid sequence collection.
 2. PSVD_seq_info.txt: Sequence information table in PSVD database.
 3. PSVD_protein.faa.gz: PSVD database protein sequence column collection.
