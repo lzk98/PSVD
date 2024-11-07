@@ -15,4 +15,5 @@ Fig Construction of the Paddy Soil Viruses Database. a) database construction pr
 ### Cite
 For any other code/analysis inquiries, please open a github issue.
 If this code is useful, please cite:
-LIU Zekun, HUANG Shixuan, YANG Meiyan.Virus Diversity Studies in Paddy Soils[J]. Acta Pedologica Sinica,2023 (In Press).
+DOI:10.11766/trxb202306130230
+LIU Zekun, HUANG Shixuan, YANG Meiyan. Virus Diversity Studies in Paddy SoilsJ]. Acta Pedologica Sinica,2024,61(6):1703-1713.
